@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "574d45d35274d528ec9b18b7" }, "className" : "cn.edu.hbtcm.pre.domain.Admin", "username" : "admin", "password" : "123", "email" : "admin@qq.com" }
